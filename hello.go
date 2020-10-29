@@ -1,4 +1,4 @@
-package hello
+package tos
 
 import "rsc.io/quote/v3"
 
